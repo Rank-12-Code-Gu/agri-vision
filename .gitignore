@@ -1,0 +1,20 @@
+# environment and caches
+.venv/
+__pycache__/
+*.pyc
+.claude/
+
+# raw and downloaded data: not redistributed (CIMMYT dataset has no stated licence);
+# download it from hdl:11529/10548945 as described in README.md
+data/
+
+# personal or presentation material
+poster/
+docs/
+Gemini_Project_Context_AgriVision.txt
+
+# large intermediate model not used by the dashboard
+models/cate_forest.joblib
+
+# run logs
+outputs/*.log

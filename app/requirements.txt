@@ -1,0 +1,11 @@
+# Runtime requirements for the dashboard only (Streamlit Community Cloud reads this file
+# because it sits next to the entrypoint app/app.py). Versions are pinned to match the ones
+# that built models/advisor.joblib, so the saved models load identically.
+streamlit==1.67.0
+plotly==7.1.0
+pandas==3.1.1
+numpy==2.5.4
+scipy==1.18.1
+scikit-learn==1.9.1
+econml==0.17.0
+joblib==1.6.0

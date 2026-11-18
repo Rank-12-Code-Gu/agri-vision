@@ -1,0 +1,29 @@
+sample,outcome,role,method,pct_effect,ci_low,ci_high,n
+all plots,Grain yield,target,District x season FE regression,30.27896671587449,25.097420471591157,35.67513306487648,1810
+all plots,Grain yield,target,Double ML,28.437344180727365,23.531521350324347,33.537992569661725,1810
+all plots,Ears (effective tillers) per m - CANNOT be caused,negative control,District x season FE regression,15.031557780423022,11.004764227364404,19.204426742332934,1810
+all plots,Ears (effective tillers) per m - CANNOT be caused,negative control,Double ML,13.319389302913232,9.547509082316207,17.221140850733583,1810
+all plots,Grains per ear - mostly fixed before irrigation,near-negative control,District x season FE regression,7.557672694888318,6.1769286619303365,8.95637217361569,1810
+all plots,Grains per ear - mostly fixed before irrigation,near-negative control,Double ML,6.307099650273296,4.0711686058036545,8.591068856537397,1810
+all plots,1000-grain weight - grain-filling channel,plausible channel,District x season FE regression,2.4928368960411396,2.2868139771831775,2.6992747798534777,1810
+all plots,1000-grain weight - grain-filling channel,plausible channel,Double ML,2.2877866727266882,1.9545895743926511,2.6220726902236535,1810
+all plots,Total biomass,mixed,District x season FE regression,13.763374867087407,9.86970802133451,17.795029168880248,1810
+all plots,Total biomass,mixed,Double ML,10.059164299962031,6.95633605863657,13.252006311859121,1810
+all plots,Yield per ear (ear-count channel removed),calibrated target,District x season FE regression,13.254979094133756,9.734842229408368,16.888036917186078,1810
+all plots,Yield per ear (ear-count channel removed),calibrated target,Double ML,12.21659509861086,8.818676030073247,15.7206159358664,1810
+all plots,Yield per grain (ears and grains removed),calibrated target,District x season FE regression,5.296978129498209,1.9228644209404955,8.782790458213018,1810
+all plots,Yield per grain (ears and grains removed),calibrated target,Double ML,5.669243983691619,1.7245855285226819,9.766867724952299,1810
+extra irrigation >= 100 DAS only,Grain yield,target,District x season FE regression,30.40391526345465,25.27439170311596,35.74347386446173,1781
+extra irrigation >= 100 DAS only,Grain yield,target,Double ML,27.689876643092415,22.544981931440834,33.05077319485841,1781
+extra irrigation >= 100 DAS only,Ears (effective tillers) per m - CANNOT be caused,negative control,District x season FE regression,15.05609436681521,11.033860321402456,19.224035016224693,1781
+extra irrigation >= 100 DAS only,Ears (effective tillers) per m - CANNOT be caused,negative control,Double ML,13.77289257538763,9.905691838793462,17.776166715341546,1781
+extra irrigation >= 100 DAS only,Grains per ear - mostly fixed before irrigation,near-negative control,District x season FE regression,7.501549902471405,6.112834122549482,8.908440029854248,1781
+extra irrigation >= 100 DAS only,Grains per ear - mostly fixed before irrigation,near-negative control,Double ML,6.8953246026407955,4.93292369667826,8.894425308628474,1781
+extra irrigation >= 100 DAS only,1000-grain weight - grain-filling channel,plausible channel,District x season FE regression,2.5058710143525564,2.302471131868389,2.7096753006769836,1781
+extra irrigation >= 100 DAS only,1000-grain weight - grain-filling channel,plausible channel,Double ML,2.400001039447419,2.1135186605984346,2.6872871527525932,1781
+extra irrigation >= 100 DAS only,Total biomass,mixed,District x season FE regression,13.659711255894447,9.78092346622903,17.675544665529387,1781
+extra irrigation >= 100 DAS only,Total biomass,mixed,Double ML,9.244912781860526,6.090636265122384,12.492971942329678,1781
+extra irrigation >= 100 DAS only,Yield per ear (ear-count channel removed),calibrated target,District x season FE regression,13.339424548610545,9.918761587239633,16.86653826439619,1781
+extra irrigation >= 100 DAS only,Yield per ear (ear-count channel removed),calibrated target,Double ML,11.307641815015668,7.967787910871871,14.75081009020347,1781
+extra irrigation >= 100 DAS only,Yield per grain (ears and grains removed),calibrated target,District x season FE regression,5.430502770830192,2.079434241468725,8.891580337486204,1781
+extra irrigation >= 100 DAS only,Yield per grain (ears and grains removed),calibrated target,Double ML,3.8039949335284096,0.14999413612524215,7.591312981148013,1781

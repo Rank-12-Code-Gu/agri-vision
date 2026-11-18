@@ -1,0 +1,11 @@
+District,State,plots,seasons,seasons_with_both_arms,lat,lon,baseline_yield,naive_pct,naive_t_ha,corrected_pct,corrected_t_ha,conservative_pct,conservative_t_ha,evidence
+Begusarai,Bihar,157,6,6,25.431,86.057,3.789,15.849,0.604,8.001,0.313,3.992,0.149,Strong
+Bhojpur,Bihar,213,5,2,25.33,84.404,3.619,30.414,1.095,12.315,0.443,9.351,0.319,Weak
+Buxar,Bihar,225,5,5,25.415,83.88,3.883,23.279,0.901,13.149,0.508,5.886,0.211,Strong
+Deoria,Uttar Pradesh,174,6,6,26.303,83.594,3.242,53.554,1.735,24.738,0.803,13.676,0.441,Strong
+East Champaran,Bihar,173,6,3,26.549,84.7,4.418,21.263,0.924,9.695,0.425,-0.797,-0.051,Moderate
+Kushinagar,Uttar Pradesh,154,6,6,26.626,84.139,3.62,38.324,1.384,13.102,0.473,6.843,0.244,Strong
+Lakhisarai,Bihar,128,6,5,25.144,86.334,4.069,18.216,0.743,10.261,0.425,2.296,0.092,Strong
+Madhepura,Bihar,210,5,2,25.826,86.768,3.524,24.351,0.862,11.688,0.419,7.045,0.25,Weak
+Muzaffarpur,Bihar,186,6,3,25.917,85.393,3.936,29.959,1.175,9.803,0.41,-2.915,-0.102,Moderate
+Rohtas,Bihar,190,5,4,25.144,84.216,4.041,21.373,0.841,10.621,0.416,3.76,0.115,Moderate
